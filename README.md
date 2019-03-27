@@ -1,3 +1,6 @@
 # Red Hat/CentOS Linux op_menu
 Some command menu for Red Hat/CentOS Linux
-¥H Jason Wang SUSE ª©¥»§ï¬° Red Hat/CentOS Linux ª©¥»
+ä»¥ Jason Wang SUSE ç‰ˆæœ¬æ”¹ç‚º Red Hat/CentOS Linux ç‰ˆæœ¬
+
+ä¸» script:
+mw_hc2.sh
